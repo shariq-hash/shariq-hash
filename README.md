@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <p align="left"> <img src="<p align="left"> <img src="https://komarev.com/ghpvc/?username=shariq-hash&label=Profile%20views&color=0e75b6&style=flat" alt="shariq-hash"/></p></p>
 <h1 align="center">Hi 👋, I'm Syed Shariq Ahmed</h1>
 <h3 align="center">I'm professional web developer</h3>
-<img align="" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwj__c_9TZJCIyiWUeT0F1H4ZTPJ51d4x9Wg&s">
+<img align="" alt="Coding" width="800" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwj__c_9TZJCIyiWUeT0F1H4ZTPJ51d4x9Wg&s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shariq-hash&label=Profile%20views&color=0e75b6&style=flat" alt="shariq-hash" /> </p>
 
