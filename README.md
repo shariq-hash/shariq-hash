@@ -14,10 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="left"> <img src="<p align="left"> <img src="https://komarev.com/ghpvc/?username=shariq-hash&label=Profile%20views&color=0e75b6&style=flat" alt="shariq-hash"/></p></p>
+<p align="left"> <img src="<p align="left"> <img src="https://komarev.com/ghpvc/?username=shariq-hash&label=Profile%20views&color=0e75b6&style=flat" alt="shariq-hash" /> </p>" /> </p>
 <h1 align="center">Hi 👋, I'm Syed Shariq Ahmed</h1>
 <h3 align="center">I'm professional web developer</h3>
-<img align="" alt="Coding" width="800" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwj__c_9TZJCIyiWUeT0F1H4ZTPJ51d4x9Wg&s">
+<img align="center" src="https://cdn3d.iconscout.com/3d/free/thumb/free-html-3d-logo-download-in-png-blend-fbx-gltf-file-formats--code-coding-programming-social-media-pack-company-brand-logos-4781249.png?f=webp">
+<img align="center" src="<img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCB6oGxwdIZ0P6jiV43wVQziTuzwN0Jm5b6Q&s">
+<img align="center" src="<img align="center" src="img align="center" src="<img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCB6oGxwdIZ0P6jiV43wVQziTuzwN0Jm5b6Q&s">">
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shariq-hash&label=Profile%20views&color=0e75b6&style=flat" alt="shariq-hash" /> </p>
 
@@ -34,3 +38,4 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shariq-hash&show_icons=true&locale=en" alt="shariq-hash" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shariq-hash&" alt="shariq-hash" /></p>
+
