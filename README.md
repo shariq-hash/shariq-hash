@@ -14,11 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- <img src="https://komarev.com/ghpvc/?username=shariq-hash&label=Profile%20views&color=0e75b6&style=flat" alt="shariq-hash" />
-<p align="left"> <img src="<p align="left"> </p>" /> </p>
+<p align="left"> <img src="<p align="left"> <img src="https://komarev.com/ghpvc/?username=shariq-hash&label=Profile%20views&color=0e75b6&style=flat" alt="shariq-hash" /> </p>" /> </p>
 <h1 align="center">Hi 👋, I'm Syed Shariq Ahmed</h1>
 <h3 align="center">I'm professional web developer</h3>
 <img align="" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
+<style>
+body {
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwj__c_9TZJCIyiWUeT0F1H4ZTPJ51d4x9Wg&s');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+</style>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shariq-hash&label=Profile%20views&color=0e75b6&style=flat" alt="shariq-hash" /> </p>
 
@@ -35,4 +42,3 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shariq-hash&show_icons=true&locale=en" alt="shariq-hash" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shariq-hash&" alt="shariq-hash" /></p>
-
