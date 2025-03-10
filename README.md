@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 <p align="left"> <img src="<p align="left"> <img src="https://komarev.com/ghpvc/?username=shariq-hash&label=Profile%20views&color=0e75b6&style=flat" alt="shariq-hash"></p> </p>
 <h1 align="center">Hi 👋, I'm Syed Shariq Ahmed</h1>
 <h3 align="center">I'm professional web developer</h3>
-<img align="center" src="https://cdn3d.iconscout.com/3d/free/thumb/free-html-3d-logo-download-in-png-blend-fbx-gltf-file-formats--code-coding-programming-social-media-pack-company-brand-logos-4781249.png?f=webp">
+<!-- <img align="center" src="https://cdn3d.iconscout.com/3d/free/thumb/free-html-3d-logo-download-in-png-blend-fbx-gltf-file-formats--code-coding-programming-social-media-pack-company-brand-logos-4781249.png?f=webp">
 <img align="center" src="<img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCB6oGxwdIZ0P6jiV43wVQziTuzwN0Jm5b6Q&s">
-<img align="center" src="<img align="center" src="img align="center" src="<img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCB6oGxwdIZ0P6jiV43wVQziTuzwN0Jm5b6Q&s">">
+<img align="center" src="<img align="center" src="img align="center" src="<img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCB6oGxwdIZ0P6jiV43wVQziTuzwN0Jm5b6Q&s">"> -->
+<img align="center" src="<img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ4AullbMD9r-d5tGVXZPd-fdwi-F2Us0KOg&s">
 
 
 
