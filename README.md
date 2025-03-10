@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="left"> <img src="<p align="left"> <img src="https://komarev.com/ghpvc/?username=shariq-hash&label=Profile%20views&color=0e75b6&style=flat" alt="shariq-hash" /> </p>" /> </p>
+<p align="left"> <img src="<p align="left"> <img src="https://komarev.com/ghpvc/?username=shariq-hash&label=Profile%20views&color=0e75b6&style=flat" alt="shariq-hash"></p> </p>
 <h1 align="center">Hi 👋, I'm Syed Shariq Ahmed</h1>
 <h3 align="center">I'm professional web developer</h3>
 <img align="center" src="https://cdn3d.iconscout.com/3d/free/thumb/free-html-3d-logo-download-in-png-blend-fbx-gltf-file-formats--code-coding-programming-social-media-pack-company-brand-logos-4781249.png?f=webp">
