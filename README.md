@@ -14,10 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
-  <img src="https://i.gifer.com/7plx.gif" width="100%" height="150px" />
-</p>
-
 <p align="left">
 <!-- <img src="https://komarev.com/ghpvc/?username=shariq-hash&label=Profile%20views&color=0e75b6&style=flat" alt="shariq-hash"></p> </p> -->
 <h1 align="center">Hi 👋, I'm Syed Shariq Ahmed</h1>
