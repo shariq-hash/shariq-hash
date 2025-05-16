@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shariq Hash</h1>
 <h3 align="center">💻 Web Developer | 🌐 Frontend Enthusiast | 🚀 Lifelong Learner</h3>
-
+<img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;JavaScript+|+NodeJS+|+Firebase+|+Flutter;Learning+Python&center=true&width=500&height=50" width = "100%"></center>
+  
+  
+<h2><img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = "50px" height ="50px">About Me :</h2>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shariq-hash&label=Profile%20Views&color=0e75b6&style=flat" alt="shariq-hash" />
 </p>
