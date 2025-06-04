@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shariq Hash</h1>
+<h1 align="center">Hi 👋, I'm Shariq </h1>
 <h3 align="center">💻 Web Developer | 🌐 Frontend Enthusiast | 🚀 Lifelong Learner</h3>
   
   
