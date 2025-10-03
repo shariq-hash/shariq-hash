@@ -86,9 +86,9 @@
   </a>
 </p>
 <p>
-  <a href="https://linkedin.com/in/YOUR-LINK" target="_blank">LinkedIn</a> •
-  <a href="mailto:your-email@example.com">Email</a> •
-  <a href="https://your-portfolio-link.com" target="_blank">Portfolio</a>
+  <a href="https://www.linkedin.com/in/syed-shariq-ahmed-79885a325/" target="_blank">LinkedIn</a> •
+  <a href="syedshariqahmed67@gmail.com">Email</a> •
+  <a href="https://life-portfolio-ten.vercel.app/">Portfolio</a>
 </p>
 
 ---
